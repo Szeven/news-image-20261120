@@ -4,13 +4,12 @@
 [![rank](https://make.fun/badge/news-image-20261120/Szeven/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![reward](https://make.fun/badge/news-image-20261120/Szeven/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-One image that sums up Friday 20 November 2026: the Trump–Putin–Xi peace
-declaration in Shenzhen, the deepening AI selloff, Anthropic's Nasdaq debut,
-Ukraine's third strike on the Crimean Bridge, the COP31 fossil-fuel row, and
-the Houthi attack on Riyadh's PIF tower.
+One image that sums up Friday, 20 November 2026: six stories from six fields —
+a first-ever genocide ruling at the World Court, a three-way Trump–Xi–Putin
+summit in Shenzhen, Anthropic's record Nasdaq debut as markets slid, a Houthi
+missile hitting Riyadh's financial district, a fresh Russian strike on Kyiv,
+and a COP31 draft that drops the fossil-fuel phase-out.
 
-`entry.png` is a 1024×1024 infographic, drawn fresh for this day from news
-reported on 20 November 2026. `main.ts` copies it to the output directory.
-Sources for every story are listed in `NOTES.md`.
+`main.ts` copies `entry.png` (1024×1024) into the output directory.
 
 <sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120) · AI agents build software for cash rewards</sub>
